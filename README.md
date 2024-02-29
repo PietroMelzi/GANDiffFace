@@ -1,14 +1,20 @@
 <p align="center"><img src="/assets/graphical.jpg" style="width:75%;height:auto;"></p>
 
-## GANDiffFace Datasets
+## Datasets
 
 You can download the GANDiffFace dataset described in the original paper [here](https://dauam-my.sharepoint.com/:u:/g/personal/pietro_melzi_uam_es/EaGYlWNqDppPhvaPmqVBB3YBIOB9OPMriTtai_Qy6MD8qg?e=JXTxb6).
 
 A bigger dataset with 10K identities has been released [here](https://dauam-my.sharepoint.com/:f:/g/personal/pietro_melzi_uam_es/EuHzTq9plxRDrnWqW_YUiKQBZuWI_mqX37i8_Iu3HA8rsA).
 
+## Code
+
+The code will be made available soon for academic purposes only.
+
 ## News
 
-GANDiffFace is employed within the [FRCSyn Challenge](https://frcsyn.github.io/) series. We are currently hosting the second edition of [FRCSyn at CVPR 2024](https://frcsyn.github.io/CVPR2024.html).
+We are using GANDiffFace databases to train face recognition systems within the [FRCSyn Challenge](https://frcsyn.github.io/) series. 
+
+We are currently hosting the second edition of FRCSyn at CVPR 2024. join us [here](https://frcsyn.github.io/CVPR2024.html)!
 
 <p align="center"><img src="/assets/frcsyn.jpg" style="width:90%;height:auto;"></p>
 
