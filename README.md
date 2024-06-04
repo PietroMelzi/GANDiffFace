@@ -8,13 +8,15 @@ A bigger dataset with 10K identities has been released [here](https://dauam-my.s
 
 ## Code
 
-The code will be made available soon for academic purposes only.
+The code is available for academic purposes only.
+To get access to the code, please follow the next steps:
+
+1. Fill and sign the license available [here](/assets/GANDiffFace_License.pdf)
+2. Send it to the following email addresses: marcos.grande@uam.es and atvs@uam.es
 
 ## News
 
 We are using GANDiffFace databases to train face recognition systems within the [FRCSyn Challenge](https://frcsyn.github.io/) series. 
-
-We are currently hosting the second edition of FRCSyn at CVPR 2024. join us [here](https://frcsyn.github.io/CVPR2024.html)!
 
 <p align="center"><img src="/assets/frcsyn.jpg" style="width:90%;height:auto;"></p>
 
